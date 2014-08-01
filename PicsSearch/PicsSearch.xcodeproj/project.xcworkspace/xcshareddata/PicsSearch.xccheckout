@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>08C8CA55-997D-449D-8875-83AD33930DEE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PicsSearch</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>57860605-D00A-433C-8E43-FC88AA5C0D01</key>
+		<string>https://github.com/gadhiya63/PicsSearch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PicsSearch/PicsSearch.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>57860605-D00A-433C-8E43-FC88AA5C0D01</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gadhiya63/PicsSearch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>57860605-D00A-433C-8E43-FC88AA5C0D01</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>57860605-D00A-433C-8E43-FC88AA5C0D01</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PicsSearch</string>
+		</dict>
+	</array>
+</dict>
+</plist>
