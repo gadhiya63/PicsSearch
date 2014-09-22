@@ -13,8 +13,9 @@
 @property (strong, nonatomic) IBOutlet UIImageView *standardImageView;
 @property (strong, nonatomic) IBOutlet UIImageView *lowImageView;
 @property (strong, nonatomic) IBOutlet UIImageView *thumbImageView;
-@property (strong, nonatomic) IBOutlet UILabel *lblStandardResolution;
-@property (strong, nonatomic) IBOutlet UILabel *lblLowResolution;
-@property (strong, nonatomic) IBOutlet UILabel *lblThumbResolution;
+//Not required
+//@property (strong, nonatomic) IBOutlet UILabel *lblStandardResolution;
+//@property (strong, nonatomic) IBOutlet UILabel *lblLowResolution;
+//@property (strong, nonatomic) IBOutlet UILabel *lblThumbResolution;
 
 @end

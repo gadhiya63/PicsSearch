@@ -10,29 +10,29 @@
 	<string>PicsSearch</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>57860605-D00A-433C-8E43-FC88AA5C0D01</key>
+		<key>0ACFEBDE3BC8C6EE9C3874834F29E39DE3DC44BD</key>
 		<string>https://github.com/gadhiya63/PicsSearch.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>PicsSearch/PicsSearch.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>57860605-D00A-433C-8E43-FC88AA5C0D01</key>
+		<key>0ACFEBDE3BC8C6EE9C3874834F29E39DE3DC44BD</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/gadhiya63/PicsSearch.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>57860605-D00A-433C-8E43-FC88AA5C0D01</string>
+	<string>0ACFEBDE3BC8C6EE9C3874834F29E39DE3DC44BD</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>57860605-D00A-433C-8E43-FC88AA5C0D01</string>
+			<string>0ACFEBDE3BC8C6EE9C3874834F29E39DE3DC44BD</string>
 			<key>IDESourceControlWCCName</key>
 			<string>PicsSearch</string>
 		</dict>

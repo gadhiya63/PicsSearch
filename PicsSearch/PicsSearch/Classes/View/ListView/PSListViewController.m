@@ -133,15 +133,15 @@
         InstagramMedia *media = mediaArray[indexPath.row];
         //set thumb image & resolution
         [cell.thumbImageView setImageWithURL:media.thumbnailURL];
-        cell.lblThumbResolution.text = [NSString stringWithFormat:@"%.0f X %.0f", media.thumbnailFrameSize.width, media.thumbnailFrameSize.height];
+        //cell.lblThumbResolution.text = [NSString stringWithFormat:@"%.0f X %.0f", media.thumbnailFrameSize.width, media.thumbnailFrameSize.height];
         
         //set standard img and resolution
         [cell.standardImageView setImageWithURL:media.standardResolutionImageURL];
-        cell.lblStandardResolution.text = [NSString stringWithFormat:@"%.0f X %.0f", media.standardResolutionImageFrameSize.width, media.standardResolutionImageFrameSize.height];
+        //cell.lblStandardResolution.text = [NSString stringWithFormat:@"%.0f X %.0f", media.standardResolutionImageFrameSize.width, media.standardResolutionImageFrameSize.height];
         
         //set low img and resolution
         [cell.lowImageView setImageWithURL:media.lowResolutionImageURL];
-        cell.lblLowResolution.text = [NSString stringWithFormat:@"%.0f X %.0f", media.lowResolutionImageFrameSize.width, media.lowResolutionImageFrameSize.height];
+        //cell.lblLowResolution.text = [NSString stringWithFormat:@"%.0f X %.0f", media.lowResolutionImageFrameSize.width, media.lowResolutionImageFrameSize.height];
         
     }
     

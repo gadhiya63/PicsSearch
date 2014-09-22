@@ -13,9 +13,10 @@
 @synthesize standardImageView;
 @synthesize lowImageView;
 @synthesize thumbImageView;
-@synthesize lblStandardResolution;
-@synthesize lblLowResolution;
-@synthesize lblThumbResolution;
+
+//@synthesize lblStandardResolution;
+//@synthesize lblLowResolution;
+//@synthesize lblThumbResolution;
 
 - (id)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString *)reuseIdentifier
 {
@@ -34,19 +35,19 @@
     [self.standardImageView.layer setBorderColor:[[UIColor lightGrayColor]CGColor]];
     [self.standardImageView.layer setBorderWidth:0.7f];
     
-    self.lblStandardResolution.transform = CGAffineTransformMakeRotation((-M_PI)/2);
+    //self.lblStandardResolution.transform = CGAffineTransformMakeRotation((-M_PI)/2);
     
     [self.lowImageView setBackgroundColor:[UIColor whiteColor]];
     [self.lowImageView.layer setBorderColor:[[UIColor lightGrayColor]CGColor]];
     [self.lowImageView.layer setBorderWidth:0.7f];
     
-    self.lblLowResolution.transform = CGAffineTransformMakeRotation((-M_PI)/2);
+    //self.lblLowResolution.transform = CGAffineTransformMakeRotation((-M_PI)/2);
     
     [self.thumbImageView setBackgroundColor:[UIColor whiteColor]];
     [self.thumbImageView.layer setBorderColor:[[UIColor lightGrayColor]CGColor]];
     [self.thumbImageView.layer setBorderWidth:0.7f];
 
-    self.lblThumbResolution.transform = CGAffineTransformMakeRotation((-M_PI)/2);
+    //self.lblThumbResolution.transform = CGAffineTransformMakeRotation((-M_PI)/2);
     
 }
 
